@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JanRawwo
 - 👀 I’m interested in kitesurfing and music production
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on furure projects
+- 🌱 I’m currently learning front-end web development
+- 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me, you simply can't
 
 <!---
