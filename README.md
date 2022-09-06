@@ -2,7 +2,7 @@
 - 👀 I’m interested in kitesurfing and music production
 - 🌱 I’m currently learning front-end web development
 - 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me, you simply can't
+- 📫 How to reach me: jan.mrawwo@gmail.com
 
 <!---
 JanRawwo/JanRawwo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
